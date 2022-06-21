@@ -1,0 +1,56 @@
+.navb {
+  background: #faaeb3;
+  elevation: 2px;
+}
+.divCarro {
+  display: grid;
+  margin: 2px 2px;
+  background-color: #f8d8d8;
+}
+.inicio {
+  background-color: #f8d8d8;
+  width: 100%;
+}
+.icono {
+  height: 80px;
+  width: 80px;
+  margin: 3px;
+}
+.divPrincipal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.divCarousel {
+  display: grid;
+  margin: 3px 15px;
+  padding: 10px;
+  text-align: center;
+}
+.divFoot {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.divNosotros {
+  margin: 3px 15px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-bottom: 5px;
+  align-content: center;
+}
+.navIcono {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+}
+.containerCarousel{
+  align-content: center;
+  align-items: center;
+  }
